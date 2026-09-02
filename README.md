@@ -4,7 +4,7 @@ Un système de gestion de facturation pour hôtel développé en **Java**. Ce pr
 
 ## 📋 Présentation
 
-Facture Hotel System est une application console conçue pour simplifier la gestion administrative d'un hôtel. Elle automatise le calcul des frais liés aux réservations et génère des factures simplement et efficacement.
+Facture Hotel System est une application conçue pour simplifier la gestion administrative d'un hôtel. Elle automatise le calcul des frais liés aux réservations et génère des factures simplement et efficacement.
 
 ## ✨ Fonctionnalités
 
